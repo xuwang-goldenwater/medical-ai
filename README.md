@@ -23,7 +23,7 @@ This project is an AI-assisted diagnostic tool that classifies Chest X-ray image
    git clone [https://github.com/YOUR_USERNAME/medical-ai.git](https://github.com/YOUR_USERNAME/medical-ai.git)
    cd medical-ai
    ```
-   2. **Create a Virtual Environment**:This keeps your project dependencies isolated.
+2. **Create a Virtual Environment**:This keeps your project dependencies isolated.
 
     ```bash
    python -m venv venv
